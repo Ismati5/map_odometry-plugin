@@ -1,0 +1,9 @@
+name: map_odometry
+main: me.ismati5.map_odometry.Main
+authors: [Ismati5]
+description: Robot map odometry
+version: 0.1 - SNAPSHOT
+commands:
+  mapodometry:
+    description: Main plugin command
+    usage: /mapodometry

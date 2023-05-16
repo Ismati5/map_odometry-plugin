@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="map_odometry">
+    <output-path>$PROJECT_DIR$/../../Users/ismae/Desktop/map_odometry/plugins</output-path>
+    <root id="archive" name="map_odometry.jar">
+      <element id="module-output" name="map_odometry-plugin" />
+    </root>
+  </artifact>
+</component>
